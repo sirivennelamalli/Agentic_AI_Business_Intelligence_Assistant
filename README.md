@@ -56,7 +56,7 @@ Agentic_AI_Business_Intelligence_Assistant/
 │
 ├── streamlit_app.py
 ├── requirements.txt
-├── Sample - Superstore.csv
+├── Sample_Superstore.csv
 ├── README.md
 ├── Agentic_AI_Business_Intelligence_Assistant.ipynb
 ├── Executive_Report.txt
