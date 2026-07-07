@@ -1,0 +1,17 @@
+
+📊 Executive Business Summary
+
+Total Sales: $2,297,200.86
+Total Profit: $286,397.02
+
+Key Findings:
+• Technology is the highest profit category.
+• West is the highest profit region.
+• Furniture is underperforming.
+• Tables are causing the highest losses.
+
+Recommendations:
+• Reduce Furniture discounts.
+• Focus on Technology growth.
+• Expand operations in West region.
+• Review loss-making products.
