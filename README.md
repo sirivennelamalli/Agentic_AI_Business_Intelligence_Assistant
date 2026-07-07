@@ -7,7 +7,7 @@ The Agentic AI Business Intelligence Assistant is an AI-powered business analyti
 
 Unlike traditional dashboards, this application combines Business Intelligence with Generative AI, allowing users to interact with business data using natural language.
 
----
+--
 
 ## Features
 
